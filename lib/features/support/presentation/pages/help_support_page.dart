@@ -188,7 +188,7 @@ class HelpSupportPage extends StatelessWidget {
                   ),
                   const SizedBox(height: 16),
                   _buildInfoItem('Version', '1.0.0'),
-                  _buildInfoItem('Last Updated', 'January 2024'),
+                  _buildInfoItem('Last Updated', 'July 2025'),
                   _buildInfoItem('Developer', 'Todo App Team'),
                   const SizedBox(height: 16),
                   Row(
